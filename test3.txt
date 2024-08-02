@@ -3,3 +3,5 @@ Ubuntu is a Linux distro based on Debian. It is suitable for cloud computing, se
 Ubuntu is a Linux distro based on Debian. It is suitable for cloud computing, servers, desktops, and internet of things (IoT) devices. The main difference between Linux and Ubuntu is that the former is an operating system family based on Unix, while Ubuntu is a Linux distribution.
 
 Ubuntu is a Linux distro based on Debian. It is suitable for cloud computing, servers, desktops, and internet of things (IoT) devices. The main difference between Linux and Ubuntu is that the former is an operating system family based on Unix, while Ubuntu is a Linux distribution.
+
+Linux is one of the most prominent examples of free and open-source software collaboration. The source code may be used, modified, and distributed commercially.
